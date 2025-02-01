@@ -1,0 +1,3 @@
+The project involves completing a Jupyter notebook titled Traffic_Light_Classifier.ipynb, which contains some pre-written template code that you'll need to enhance to build a traffic light classification model. Critical implementation steps are indicated with '(IMPLEMENTATION)' and there are questions to answer marked with '(QUESTION)'. You'll also work with additional Python files, helpers.py and test_functions.py, which contain necessary functions for data loading and testing your code. 
+
+To successfully complete the project, you must achieve over 90% accuracy and ensure that red lights are never classified as green. This project is open-ended, allowing you to aim for the highest accuracy possible, and it serves as a valuable addition to your portfolio.
